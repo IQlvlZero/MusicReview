@@ -1,0 +1,11 @@
+{
+  "format": "particle",
+  "title": "Music Reviews!!",
+  "content": [
+    {
+      "type": "button",
+      "label": "123 (the longest dream)",
+      "action": "https://placeholder.com/"
+    }
+  ]
+}
