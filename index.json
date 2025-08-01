@@ -3,6 +3,14 @@
   "title": "Music Reviews!!",
   "content": [
     {
+      "type": "paragraph",
+      "text": "What i think about the music im listening to!, its basically just reccomendations though, dont expect a very critical eye to often :>",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 20
+      }
+    },
+    {
       "type": "button",
       "label": "123 (the longest dream)",
       "action": "https://iqlvlzero.github.io/123StomachBook/"
