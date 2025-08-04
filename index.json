@@ -12,13 +12,13 @@
     },
     {
       "type": "button",
-      "label": "123 (the longest dream)",
-      "action": "https://iqlvlzero.github.io/123StomachBook/"
+      "label": "LOTTERY",
+      "action": "https://iqlvlzero.github.io/LOTTERYFEMTANYL/"
     },
     {
       "type": "button",
-      "label": "LOTTERY",
-      "action": "https://iqlvlzero.github.io/LOTTERYFEMTANYL/"
+      "label": "123 (the longest dream)",
+      "action": "https://iqlvlzero.github.io/123StomachBook/"
     }
   ]
 }
